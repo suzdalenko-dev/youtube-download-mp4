@@ -20,12 +20,14 @@ int main()
         std::string out_dir = exe_dir + "\\out";
         std::filesystem::create_directories(downloads_dir);
         std::filesystem::create_directories(out_dir);
-  
+
+
         // first posible error
         if (!std::filesystem::exists(yt_dlp_path)) {
             std::cerr << "Error: yt-dlp.exe not found at: " << yt_dlp_path << "\n";
             return 1; // Exit the program with an error code
         }
+
 
 		std::cout << "Enter short YouTube url: ";
 		std::string youtubeUrl = "";

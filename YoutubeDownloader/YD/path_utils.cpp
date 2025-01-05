@@ -28,6 +28,9 @@ void download_video(std::string yt_dlp_path, std::string youtube_url, std::strin
         command += " -k \"" + youtube_url + "\"";
 
         // Log the action
+        std::cout << "yt-dlp path: " << yt_dlp_path << "\n";
+        std::cout << "Downloads directory: " << output_dir << "\n";
+        std::cout << "Command: " << command << "\n";
         std::cout << "Downloading from: " << youtube_url << "\n";
 
         // Execute the command
