@@ -49,8 +49,8 @@ void download_video(std::string yt_dlp_path, std::string youtube_url, std::strin
 void merge_files(std::string exe_dir, std::string downloads_dir, std::string out_dir, std::string epoch_seconds) {
 
     try {
-    // Locate the most recent video and audio files
-    std::vector<std::filesystem::path> video_files;
+        // Locate the most recent video and audio files
+        std::vector<fs::path> video_files;
    
     for (const auto& entry : fs::directory_iterator(downloads_dir)) {
         if (entry.path().extension() == ".mp4") {

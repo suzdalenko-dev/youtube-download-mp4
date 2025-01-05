@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\path_utils.h.obj",
+            "outputs": [
+                "C:\\x\\YoutubeDownloader\\YD\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\x\\YoutubeDownloader\\YD\\x64\\Release\\path_utils.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "path_utils.h",
+                    "source-path": "c:\\x\\youtubedownloader\\yd\\path_utils.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

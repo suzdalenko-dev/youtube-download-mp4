@@ -1,0 +1,11 @@
+﻿  Scanning sources for module dependencies...
+  path_utils.h
+  Compiling...
+  path_utils.h
+  path_utils.cpp
+  YD.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 711 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  YD.vcxproj -> C:\x\YoutubeDownloader\x64\Release\YD.exe
