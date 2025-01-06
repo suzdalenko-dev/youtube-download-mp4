@@ -1,4 +1,4 @@
-# YouTube Downloader Script
+# YouTube Download Video to MP4
 
 **Version**: 1.0.0
 **Released**: 2024-12-31  
