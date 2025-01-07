@@ -8,7 +8,6 @@
 **Version**: 1.0.0
 **Released**: 2024-12-31  
 **Author**: Suzdalenko Alexey  
-**Download Code**: https://bitbucket.org/suzdalenko-dev/youtube-download-to-mp4
 ---
 <video src="https://suzdalenko-dev.github.io/youtube-download-mp4/html/1.mp4" controls width="640">
 Your browser does not support the video tag.
