@@ -1,5 +1,3 @@
-<iframe width="1665" height="555" src="https://www.youtube.com/embed/wgrcJzzALTc" title="Download to MP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # YouTube Download Video to MP4
 
 **Version**: 1.0.0
